@@ -18,7 +18,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 8. Stop the Program.
 
 ## Program:
-
+```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: S Saichandran
@@ -77,7 +77,7 @@ for i,j in enumerate(np.unique(Y_Set)):
   plt.ylabel('Estimated Salary')
   plt.legend()
   plt.show()
-
+```
 ## Output:
 ![logistic regression using gradient descent](/predictiong%20the%20test%20set%20results.PNG)
 ![logistic regression using gradient descent](/Making%20the%20confusion%20matrix.PNG)

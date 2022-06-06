@@ -81,9 +81,14 @@ for i,j in enumerate(np.unique(Y_Set)):
 ## Output:
 ![logistic regression using gradient descent](/predictiong%20the%20test%20set%20results.PNG)
 ![logistic regression using gradient descent](/Making%20the%20confusion%20matrix.PNG)
+
 ![logistic regression using gradient descent](/accuracy.PNG)
+
+
 ![logistic regression using gradient descent](/recall.PNG)
+
 ![logistic regression using gradient descent](/output%201.PNG)
+
 ![logistic regression using gradient descent](/output%202.PNG)
 
 
